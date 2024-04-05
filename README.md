@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil do Matheus Dev 😁
+## Bem-vindo(a) ao meu perfil
+ ## Sou Matheus, tenho 18 anos e estou me aventurando na programação.
 
  <div>
    <a href="https://github.com/matheusdev">
